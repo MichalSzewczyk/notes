@@ -5,7 +5,7 @@ Main tasks for managing people:
 * Giving feedback on career growth, progression towards goals, fields for improvement, reward for achievements
 
 
-New report
+## New report
 Build trust and rapport
 Create 30/60/90 plan - Define the goals for a new hire that will help you to asses if this is the right hire or not. Define clear, measurable and achievable milestones for 30, 60 and 90 days.
 Establish the "New Joiner Guide" documentation where new hires will contribute.
