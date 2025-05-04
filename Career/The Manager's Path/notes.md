@@ -49,4 +49,21 @@ progress in gap resolution
 * Understand who is your business and understand business needs
 * Understand the project roadmap and plan the technical roadmap reflecting the business needs
 * Frequently review the outcome of the decisions you have made to learn from them
- 
+
+## Ways to manage the conflict
+* Don't relay on a consensus or voting too heavily, due to various backgrounds and skill sets majority may not always
+make the best judgement call on given subject
+* Depersonalize decisions and make sure to establish decision-making process that will work that way
+* Do not turn a blind eye on simmering issues - negative feedback during performance review should not come as a surprise
+* Do address issues without courting drama
+* Be kind to your directs and peers
+
+## Behavioural anti patterns
+* Brilliant jerk - a pearson who is technically excellent but kills team spirit, it's hard to deal with such pearson
+as it's difficult to justify letting go someone that delivers a lot. Usually it's enough to just not promote them and
+they will quit by themselves.
+* Noncommunicator - a pearson who hides information from others. There may be various reasons for his behaviour, frequent
+ones are:
+  - Person is afraid of critism - asses whether the team has a culture promoting trust and growth
+  - Person is too self-confident so that he thinks he knows best - it may require corrective feedback
+* Employee who lacks respect you or the rest of the team - best is to help the person leave the company
